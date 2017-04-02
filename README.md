@@ -23,4 +23,4 @@
 <h3>Step3</h3>
 <p>This step is important! you need to install 'react-tap-event-plugin', and use the 'injectTapEventPlugin()' method in your index.js file  otherwise you will mess up with onTouchTap() functionality. According to Material-UI official website (http://www.material-ui.com/#/get-started/installation)the react-tap-event-plugin provides onTouchTap() to all React Components. It's a mobile-friendly onClick() alternative for components in Material-UI, especially useful for the buttons</p>
 
-<h2>Now you are good to go with your developpment</h2>
+<h3>Now you are good to go with your development</h3>
