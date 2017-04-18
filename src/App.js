@@ -13,9 +13,11 @@ const styles = {
   floatingLabelStyle: {
     color: orange500
   },
+
   floatingLabelFocusStyle: {
     color: blue500
   },
+
   container: {
     textAlign: 'center',
     paddingTop: 200
@@ -116,7 +118,6 @@ this.setState({
               floatingLabelStyle={styles.floatingLabelStyle}
               floatingLabelFocusStyle={styles.floatingLabelFocusStyle}
             />
-
             <TextField
               floatingLabelText="Password"
               type="password"
@@ -131,7 +132,6 @@ this.setState({
               primary={true}
               onTouchTap={this.handleTouchTap}
               style={{ marginTop: 25, width: 200 }}
-
             />
           </Paper>
 
